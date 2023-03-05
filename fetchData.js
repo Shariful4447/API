@@ -14,3 +14,6 @@ fetch('https://jsonplaceholder.typicode.com/users')
             ul.appendChild(li);
         }
       }
+
+      //Create New Data by Post method
+      
